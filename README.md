@@ -25,6 +25,8 @@ El objetivo de este proyecto es desarrollar y entrenar una Red Generativa Advers
   <img src="./img/generadas.png" alt="Generadas" style="width:400px;">
 </a>
 
+  Para un entrenamiento con 50 épocas no ha quedado mal, son imágenes algo parecidas a ropa y accesorios, obviamente con margen de mejora.
+
 ## Requisitos
 
 - **Python 3.x**
